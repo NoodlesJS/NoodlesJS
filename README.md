@@ -7,7 +7,9 @@
 ✉️ **Email me:** romaenwritescode@gmail.com
 
 ## Social
-[Website](http://noodlesjs.dev) | [Twitter](https://twitter.com/CodingNoodles) | [Instagram](https://www.instagram.com/noodles.js/) | [Linkedin](https://www.linkedin.com/in/romaen-saleh/)
+[Website](http://noodlesjs.dev) | [Behance](https://www.behance.net/romaen) | [Dribble](https://dribbble.com/NoodlesJS)
+
+[Twitter](https://twitter.com/CodingNoodles) | [Instagram](https://www.instagram.com/noodles.js/) | [Linkedin](https://www.linkedin.com/in/romaen-saleh/)
 
 ## Tools and Technologies
 - **DESIGN**
