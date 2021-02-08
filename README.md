@@ -25,6 +25,9 @@
 <img align="left" src="/assets/development/js.png" width="30px" alt="js" />
 <img align="left" src="/assets/development/react.png" width="30px" alt="react" />
 <img align="left" src="/assets/development/nodejs.png" width="30px" alt="nodejs" />
+
+<br /><br/>
+
 <img align="left" src="/assets/development/mongodb.png" width="30px" alt="mongodb" />
 <img align="left" src="/assets/development/firebase.png" width="30px" alt="firebase" />
 <img align="left" src="/assets/development/netlify.png" width="30px" alt="netlify" />
