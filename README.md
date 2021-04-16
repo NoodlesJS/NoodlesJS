@@ -1,4 +1,4 @@
-<img src="github_banner.png" alt="profile banner" />
+<img src="github.png" alt="profile banner" />
 
 ## Designer | Developer | Creator
 💻 Really enjoy building things from scratch and to see it through <br />
